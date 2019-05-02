@@ -21,4 +21,5 @@ def prime? (int)
 end
 
 
-//
+# The efficient solution for this problem
+
